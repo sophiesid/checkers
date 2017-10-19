@@ -113,4 +113,3 @@ div:nth-child(odd):hover::before, div:nth-child(even):hover::before{
 	box-shadow: 0px 0px 25px 1px rgba(83,42,42,1);
 }
 
-
